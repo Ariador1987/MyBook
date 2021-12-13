@@ -1,0 +1,17 @@
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.DAL.deps.json
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.DAL.runtimeconfig.json
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.DAL.dll
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\ref\BookAPI.DAL.dll
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.DAL.pdb
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\DAL\bin\Debug\net6.0\BookAPI.Domain.pdb
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.AssemblyInfo.cs
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.csproj.CopyComplete
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.dll
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\ref\BookAPI.DAL.dll
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.pdb
+C:\Users\BOKI\source\repos\BookProject\DAL\obj\Debug\net6.0\BookAPI.DAL.genruntimeconfig.cache

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BooksAPI</name>
+    </assembly>
+    <members>
+        <member name="T:AuthorsAPI.Controllers.AuthorsController">
+            <summary>
+            Endpoint for Author-related operations
+            </summary>
+        </member>
+        <member name="M:AuthorsAPI.Controllers.AuthorsController.GetAll">
+            <summary>
+            Returns all Authors
+            </summary>
+        </member>
+        <member name="M:AuthorsAPI.Controllers.AuthorsController.Get(System.Int32)">
+            <summary>
+            Returns a single Author
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:AuthorsAPI.Controllers.AuthorsController.Post(BookAPI.Domain.Models.DTOs.AuthorDTO)">
+            <summary>
+            Create a single Author
+            </summary>
+            <param name="AuthorDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AuthorsAPI.Controllers.AuthorsController.Update(System.Int32,BookAPI.Domain.Models.DTOs.AuthorUpdateDTO)">
+            <summary>
+            updates a single Author.
+            </summary>
+            <param name="id"></param>
+            <param name="AuthorDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AuthorsAPI.Controllers.AuthorsController.Delete(System.Int32)">
+            <summary>
+            Deletes a single Author
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BooksAPI.Controllers.BooksController">
+            <summary>
+            Endpoint for book-related operations
+            </summary>
+        </member>
+        <member name="M:BooksAPI.Controllers.BooksController.GetAll">
+            <summary>
+            Returns all books
+            </summary>
+        </member>
+        <member name="M:BooksAPI.Controllers.BooksController.Get(System.Int32)">
+            <summary>
+            Returns a single book
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:BooksAPI.Controllers.BooksController.Post(BookAPI.Domain.Models.DTOs.BookDTO)">
+            <summary>
+            Create a single book
+            </summary>
+            <param name="bookDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BooksAPI.Controllers.BooksController.Update(System.Int32,BookAPI.Domain.Models.DTOs.BookUpdateDTO)">
+            <summary>
+            updates a single book.
+            </summary>
+            <param name="id"></param>
+            <param name="bookDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BooksAPI.Controllers.BooksController.Delete(System.Int32)">
+            <summary>
+            Deletes a single book
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PublishersAPI.Controllers.PublishersController.GetAll">
+            <summary>
+            Returns all Publishers
+            </summary>
+        </member>
+        <member name="M:PublishersAPI.Controllers.PublishersController.Get(System.Int32)">
+            <summary>
+            Returns a single Publisher
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:PublishersAPI.Controllers.PublishersController.Post(BookAPI.Domain.Models.DTOs.PublisherDTO)">
+            <summary>
+            Create a single Publisher
+            </summary>
+            <param name="PublisherDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PublishersAPI.Controllers.PublishersController.Update(System.Int32,BookAPI.Domain.Models.DTOs.PublisherUpdateDTO)">
+            <summary>
+            updates a single Publisher.
+            </summary>
+            <param name="id"></param>
+            <param name="PublisherDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PublishersAPI.Controllers.PublishersController.Delete(System.Int32)">
+            <summary>
+            Deletes a single Publisher
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

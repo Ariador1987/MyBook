@@ -1,0 +1,17 @@
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.AssemblyInfo.cs
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.Repository.deps.json
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.Repository.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\ref\BookAPI.Repository.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.Repository.pdb
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.Domain.pdb
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.csproj.CopyComplete
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\ref\BookAPI.Repository.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\obj\Debug\net6.0\BookAPI.Repository.pdb
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.DAL.dll
+C:\Users\BOKI\source\repos\BookProject\BookAPI.Repository\bin\Debug\net6.0\BookAPI.DAL.pdb

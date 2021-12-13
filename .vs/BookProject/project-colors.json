@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f206334-b422-4e83-8242-46d9160fac00": {
+      "ProjectGuid": "5f206334-b422-4e83-8242-46d9160fac00",
+      "DisplayName": "BooksAPI",
+      "ColorIndex": 0
+    },
+    "b22f7051-953b-47ff-b962-89bcc42b4faf": {
+      "ProjectGuid": "b22f7051-953b-47ff-b962-89bcc42b4faf",
+      "DisplayName": "BookAPI.Domain",
+      "ColorIndex": 1
+    },
+    "bb155d64-1f86-47db-9e0a-fc0a50b511a6": {
+      "ProjectGuid": "bb155d64-1f86-47db-9e0a-fc0a50b511a6",
+      "DisplayName": "BookAPI.DAL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bbe3c9b3-8bc4-412f-810c-fa5931887675": {
+      "ProjectGuid": "bbe3c9b3-8bc4-412f-810c-fa5931887675",
+      "DisplayName": "BookAPI.Repository",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

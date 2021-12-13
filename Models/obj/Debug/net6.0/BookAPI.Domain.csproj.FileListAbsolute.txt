@@ -1,0 +1,12 @@
+C:\Users\BOKI\source\repos\BookProject\Models\bin\Debug\net6.0\BookAPI.Domain.deps.json
+C:\Users\BOKI\source\repos\BookProject\Models\bin\Debug\net6.0\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\Models\bin\Debug\net6.0\ref\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\Models\bin\Debug\net6.0\BookAPI.Domain.pdb
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.AssemblyInfo.cs
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\ref\BookAPI.Domain.dll
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.pdb
+C:\Users\BOKI\source\repos\BookProject\Models\obj\Debug\net6.0\BookAPI.Domain.csproj.AssemblyReference.cache

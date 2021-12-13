@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mm9Gmqeve1Rmt0l4RcJMrNESMcf4JOudt1m1L5+pQJkRfWxGrtBo8NUkAecQleMzNSjNzZWBD8HJ1m0K7aBudg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BOKI\\source\\repos\\BookProject\\Models\\BookAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BOKI\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\BOKI\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
